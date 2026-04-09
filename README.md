@@ -10,7 +10,7 @@ ByteForge/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Backend
 
@@ -37,7 +37,7 @@ npm run dev               # http://localhost:3000
 
 ---
 
-## 🏗 Frontend Architecture
+##  Frontend Architecture
 
 ```
 src/
@@ -91,7 +91,7 @@ src/
 
 ---
 
-## ⚙️ Backend Architecture
+##  Backend Architecture
 
 ```
 src/
@@ -148,7 +148,7 @@ POST   /api/v1/deployments
 
 ---
 
-## 🔐 Security Features
+##  Security Features
 
 - JWT access tokens (15min) + refresh tokens (7d)
 - RBAC (owner / collaborator / viewer roles)
@@ -164,7 +164,7 @@ POST   /api/v1/deployments
 
 ---
 
-## 🐳 Docker Compose
+##  Docker Compose
 
 ```bash
 cd backend
@@ -175,7 +175,7 @@ Starts: Express API + MongoDB + Redis + Nginx proxy
 
 ---
 
-## 📦 Production Deployment
+##  Production Deployment
 
 - **Frontend** → Vercel (`vercel deploy`)
 - **Backend** → AWS / Render / Railway
@@ -185,7 +185,7 @@ Starts: Express API + MongoDB + Redis + Nginx proxy
 
 ---
 
-## 🌐 Environment Variables
+##  Environment Variables
 
 See `frontend/.env.example` and `backend/.env.example` for all required variables.
 
