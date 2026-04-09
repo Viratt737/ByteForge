@@ -188,3 +188,8 @@ Starts: Express API + MongoDB + Redis + Nginx proxy
 ## 🌐 Environment Variables
 
 See `frontend/.env.example` and `backend/.env.example` for all required variables.
+
+## Author 
+
+Vishal Maurya 
+Virat Trivedi
